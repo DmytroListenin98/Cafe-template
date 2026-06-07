@@ -9,9 +9,9 @@ Built as a UI/layout exercise to practice SwiftUI component architecture.
 ## Screenshots
 
 <p>
-  <img src="Screenshots/screen1.png" width="30%">
-  <img src="Screenshots/screen2.png" width="30%">
-  <img src="Screenshots/screen3.png" width="30%">
+  <img src="Screenshots/Screen1.png" width="30%">
+  <img src="Screenshots/Screen2.png" width="30%">
+  <img src="Screenshots/Screen3.png" width="30%">
 </p>
 
 ---
