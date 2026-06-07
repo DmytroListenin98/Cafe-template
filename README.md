@@ -8,7 +8,9 @@ Built as a UI/layout exercise to practice SwiftUI component architecture.
 
 ## Screenshots
 
-> _Add screenshots here_
+![Header](Screenshots/Screenshot 1.png)
+![Menu](Screenshots/Screenshot 2.png)
+![Footer](Screenshots/Screenshot 3.png)
 
 ---
 
@@ -63,5 +65,5 @@ Cafe App/
 
 **Dmytro Listenin**
 - GitHub: [@DmytroListenin98](https://github.com/DmytroListenin98)
-- LinkedIn: [Dmytro Listenin](https://www.linkedin.com/in/dmytro-listenin)
+- LinkedIn: [Dmytro Listenin](https://www.linkedin.com/in/dmytro-listenin-7503a73ab/)
 - Telegram: [@AppleFansUkr](https://t.me/AppleFansUkr)
