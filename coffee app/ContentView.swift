@@ -2,20 +2,29 @@
 //  ContentView.swift
 //  coffee app
 //
-//  Created by jabko on 12.09.2025.
+//  Created by Dmytro Listenin on 12.09.2025.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        ZStack {
+            Color.back.edgesIgnoringSafeArea(.all)
+            
+            ScrollView {
+                VStack(spacing: 0) {
+                    HeaderView()
+                    AboutView()
+                    ServicesView()
+                    PromoView()
+                    MenuView()
+                    BookingView()
+                    ContactsView()
+                }
+            }
+            .ignoresSafeArea(.all, edges: .top)
         }
-        .padding()
     }
 }
 
