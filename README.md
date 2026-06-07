@@ -8,9 +8,11 @@ Built as a UI/layout exercise to practice SwiftUI component architecture.
 
 ## Screenshots
 
-![Header](Screenshots/Screenshot 1.png)
-![Menu](Screenshots/Screenshot 2.png)
-![Footer](Screenshots/Screenshot 3.png)
+<p>
+  <img src="Screenshots/screen1.png" width="30%">
+  <img src="Screenshots/screen2.png" width="30%">
+  <img src="Screenshots/screen3.png" width="30%">
+</p>
 
 ---
 
